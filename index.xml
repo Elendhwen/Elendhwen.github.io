@@ -6,8 +6,15 @@
     <description>Recent content on Tomašo Hugo puslapis</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 15:43:50 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:00:00 +0300</lastBuildDate>
     <atom:link href="https://elendhwen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie mane</title>
+      <link>https://elendhwen.github.io/apie/</link>
+      <pubDate>Tue, 31 Mar 2026 17:00:00 +0300</pubDate>
+      <guid>https://elendhwen.github.io/apie/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pirmas Puslapis</title>
       <link>https://elendhwen.github.io/posts/pirmas-puslapis/</link>
